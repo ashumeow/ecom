@@ -3,3 +3,4 @@
 [3] <a href="http://bootstrap-ecommerce.com/">UI starter kit</a>
 [4] <a href="https://github.com/FortAwesome/Font-Awesome">Font Awesome</a>
 [5] <a href="https://github.com/OwlCarousel2/OwlCarousel2">Owl Carousel</a>
+[6] <a href="https://github.com/fancyapps/fancybox">FancyBox</a>
