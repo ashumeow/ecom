@@ -6,3 +6,4 @@
 [6] <a href="https://github.com/fancyapps/fancybox">FancyBox</a>
 [7] <a href="https://wrapbootstrap.com/theme/beborn-multipurpose-landing-page-WB0245K45">BeBorn</a>
 [8] <a href="https://github.com/dimsemenov/Magnific-Popup">Magnific-Popup</a>
+[9] <a href="https://www.creative-tim.com/product/login-and-register-modal">modal snippet</a>
